@@ -10,6 +10,8 @@ public class calculator {
 	
 	public int sub( int a, int b)
 	{
+		int c=100;
+		
 		return a-b;
 	}
 }
